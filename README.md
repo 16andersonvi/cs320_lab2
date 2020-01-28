@@ -1,1 +1,3 @@
-# cs320_lab2
+#Great Solutions Inc.
+
+We solve all of your problems, guaranteed!
